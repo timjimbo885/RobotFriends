@@ -4,9 +4,9 @@ import Card from './Card';
 // We know cardlist has access to robots
 
 const Cardlist = ({ robots }) => {
-	if (true) {
-		throw new Error('NOOOOOOO!');
-	}
+	// if (true) {
+	// 	throw new Error('NOOOOOOO!');
+	// }
 	return (
 		<>
 		{
