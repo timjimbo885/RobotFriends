@@ -1,0 +1,12 @@
+   @font-face {
+    font-family: '. ';
+    font-style: normal;
+    font-weight: normal;
+    src: local('. '), url('..woff') format('woff');
+    }
+
+    h1 {
+        font-family: '. ';
+        font-weight: 700;
+        color: rgb(75, 73, 207);
+    }
